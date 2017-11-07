@@ -1,10 +1,8 @@
 //Implementing Selection sort
 import java.util.*;
 
-public class selectionSort {
+public class SelectionSort {
 
-	//selection sort
-	
 	static void selectionSortFun(int array[])
 	{
 		int min=0,n=array.length;
@@ -28,26 +26,6 @@ public class selectionSort {
 		
 	}
 	
-	//driver class
-	public static void main(String args[])
-	{	
-		Scanner sc=new Scanner(System.in);
-		System.out.println("How many numbers?");
-		int n=sc.nextInt();
-		int array[]=new int[n];
-		System.out.println("Enter the array to be sorted:\n");
-		for(int i=0;i<n;i++)
-		{
-			array[i]=sc.nextInt();
-		}
-		sc.close();
-		
-		selectionSortFun(array);
-		
-		System.out.println("Printing the sorted array:\n");
-		for(int i=0;i<n;i++)
-			System.out.print(array[i]+" ");
-
-	}
-	
 }
+
+
