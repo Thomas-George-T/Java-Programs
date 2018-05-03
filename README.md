@@ -1,4 +1,10 @@
-# Java-Strings-Exercises
-String programs in java
-- Check for a palindrome
-- Capitalize each word
+# Description
+Practising Popular programs in Java
+
+## Numbers
+- Fibonacci Series (Non Recursive)
+- Fibonacci Series (Recursive)
+- Check for Prime
+- Determine the factorial of a number
+- Check for a Palindrome (Number)
+- Check for Armstrong Number (Number)

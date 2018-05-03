@@ -1,0 +1,11 @@
+//Author: Thomas George Thomas
+// Determine the factorial of a number
+import java.util.*;
+
+public class fact {
+
+	public static void main(String[] args) {
+
+	}
+
+}

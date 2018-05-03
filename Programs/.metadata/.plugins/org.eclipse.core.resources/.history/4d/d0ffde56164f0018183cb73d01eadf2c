@@ -1,0 +1,17 @@
+//Author: Thomas George Thomas
+// Determine the factorial of a number
+
+import java.util.*;
+
+public class fact {
+
+	public static void main(String[] args) {
+		
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter the number to determine the factorial: ");
+		int n=sc.nextInt();
+		
+		for(i=1;i<n;i++)
+	}
+
+}

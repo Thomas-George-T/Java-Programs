@@ -1,0 +1,12 @@
+//Author: Thomas George Thomas
+// Check if number given is prime
+
+import java.util.*;
+public class checkIfPrime {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

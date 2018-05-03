@@ -1,0 +1,22 @@
+//Author: Thomas George Thomas
+//Check if number is a palindrome
+
+import java.util.*;
+
+public class palindrome {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter the number to check for palindrome: ");
+		int n=sc.nextInt();
+		
+		int copy=n;
+		int len=String(n).length();
+		
+		for(int i=0;i<;i++)
+		{
+			
+		}
+	}
+
+}

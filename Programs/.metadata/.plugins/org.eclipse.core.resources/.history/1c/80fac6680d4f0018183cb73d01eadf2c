@@ -1,0 +1,10 @@
+//Author : Thomas George Thomas
+// Find fibonacci series without using recursion
+
+public class fibNonRecursive {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in)
+	}
+
+}

@@ -1,0 +1,12 @@
+//Author : Thomas George Thomas
+// Find the the fibonacci series up to term t using recursion
+import java.util.Scanner;
+
+public class fiboRecursive {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc=new Scanner(System.in);
+		
+	}
+}
