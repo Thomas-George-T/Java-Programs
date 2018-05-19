@@ -10,3 +10,6 @@ Practising Popular programs in Java
 - Check for Armstrong Number 
 
 ## Sorting
+- BubbleSort
+- SelectionSort
+- MergeSort

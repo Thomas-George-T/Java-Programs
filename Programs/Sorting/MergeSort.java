@@ -1,3 +1,4 @@
+//Author: Thomas George Thomas
 //Implementing MergeSort
 import java.util.*;
 
