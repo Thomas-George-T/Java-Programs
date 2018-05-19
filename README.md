@@ -6,5 +6,7 @@ Practising Popular programs in Java
 - Fibonacci Series (Recursive)
 - Check for Prime
 - Determine the factorial of a number
-- Check for a Palindrome (Number)
-- Check for Armstrong Number (Number)
+- Check for a Palindrome 
+- Check for Armstrong Number 
+
+## Sorting
