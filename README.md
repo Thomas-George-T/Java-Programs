@@ -13,3 +13,7 @@ Practising Popular programs in Java
 - BubbleSort
 - SelectionSort
 - MergeSort
+- InsertionSort
+
+## Searching
+- Binary Search
