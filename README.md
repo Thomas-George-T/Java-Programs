@@ -17,3 +17,7 @@ Practising Popular programs in Java
 
 ## Searching
 - Binary Search
+- Linear Search
+
+## Array Programs
+- Find the 3rd largest number in the array
